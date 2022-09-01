@@ -1,4 +1,4 @@
-# **Markdown Github**
+<h1 align="center">Markdown Github</h1>
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
